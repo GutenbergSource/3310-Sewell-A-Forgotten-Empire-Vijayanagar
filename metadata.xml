@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>A Forgotten Empire: Vijayanagar; A Contribution to the History of India</dc:title>
+      <dc:creator>Robert Sewell (1845–1925)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2002-07-01</dc:publisher>
+      <dc:date>2002-07-01</dc:date>
+      <dc:rights>Public Domain</dc:rights>
+      <dc:language>en-uk</dc:language>
+      <dc:subject>Vijayanagar (Empire)—History.
+            </dc:subject>
+      <dc:identifier>pg:3310</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
